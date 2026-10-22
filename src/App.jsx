@@ -100,6 +100,7 @@ function Scene() {
   );
 }
 
+
 const projects = [
   {
     n: '01',
@@ -112,12 +113,12 @@ const projects = [
   },
   {
     n: '02',
-    title: 'DREAMBUILD STUDIO',
-    type: 'WEBSITE BUILDER / WEB PLATFORM',
+    title: 'LUMAFORGE STUDIO',
+    type: 'AI / DIGITAL CREATION',
     year: '2026',
     color: 'cyan',
-    desc: 'A website-building project focused on making digital creation more approachable through a visual builder experience.',
-    url: 'https://dreambuild-website-builder-a8ur.vercel.app/'
+    desc: 'A digital creation project exploring AI-powered experiences, creative technology, and modern web design.',
+    url: 'https://lumaforge-studio-blond.vercel.app/'
   },
   {
     n: '03',
@@ -127,6 +128,15 @@ const projects = [
     color: 'pink',
     desc: 'A bakery storefront concept bringing product browsing and an inviting visual identity together in an online shopping experience.',
     url: 'https://sweet-house-1.vercel.app/#menu'
+  },
+  {
+    n: '04',
+    title: 'AUREL',
+    type: 'FASHION / E-COMMERCE',
+    year: '2026',
+    color: 'violet',
+    desc: 'A minimal luxury fashion storefront concept designed to bring a refined shopping experience to modern unisex fashion.',
+    url: 'https://heroic-bublanina-7e445c.netlify.app/'
   }
 ];
 
