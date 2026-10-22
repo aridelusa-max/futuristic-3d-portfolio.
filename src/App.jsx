@@ -441,7 +441,7 @@ function App() {
           </a>
 
           <small className="email-note">
-            DEMO EMAIL: hello@example.com — REPLACE WITH YOURS
+            CONTACT: SADHIKAPANDEY482@GMAIL.COM
           </small>
         </div>
       </section>
