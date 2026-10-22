@@ -100,7 +100,6 @@ function Scene() {
   );
 }
 
-
 const projects = [
   {
     n: '01',
@@ -152,7 +151,7 @@ function App() {
   };
 
   // Replace this demo address with your real contact email.
-  const email = 'hello@example.com';
+  const email = 'sadhikapandey482@gmail.com';
 
   return (
     <main>
